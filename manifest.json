@@ -1,0 +1,18 @@
+
+{
+  "name": "Reading Buddy: My Reading Calendar",
+  "short_name": "Reading Buddy",
+  "description": "A fun, interactive reading tracker for kids.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f0f9ff",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3145/3145765.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
